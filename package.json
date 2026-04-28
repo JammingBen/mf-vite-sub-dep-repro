@@ -1,0 +1,6 @@
+{
+  "name": "mf-vite-sub-dep-repro",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Minimal reproduction: excludeSharedSubDependencies incorrectly removes explicitly shared packages"
+}
